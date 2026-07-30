@@ -57,6 +57,6 @@ I design and build **agentic AI systems** — from autonomous swarms that test a
 ### GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kwizzlesurp10-ctrl&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwizzlesurp10-ctrl&layout=compact&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-rickstaa.vercel.app/api?username=kwizzlesurp10-ctrl&show_icons=true&theme=default&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=kwizzlesurp10-ctrl&layout=compact&hide_border=true" height="165" />
 </p>
