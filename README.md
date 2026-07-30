@@ -52,10 +52,3 @@ I design and build **agentic AI systems** — from autonomous swarms that test a
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 </p>
 
----
-
-### GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats-rickstaa.vercel.app/api?username=kwizzlesurp10-ctrl&show_icons=true&theme=default&hide_border=true" height="165" />
-</p>
