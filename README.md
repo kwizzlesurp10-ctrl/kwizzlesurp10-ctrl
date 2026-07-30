@@ -14,11 +14,11 @@
 
 I design and build **agentic AI systems** — from autonomous swarms that test and analyze the web, to production tools for audio, prompting, and lead generation. Code is the craft; the goal is sovereign, ethical, human-flourishing tech that ships.
 
-- 🔭 Currently building **AudioForge** — an AI-assisted audio production platform
-- 🤖 Also maintaining several autonomous multi-agent & AI tooling projects
-- 🌱 Exploring MCP (Model Context Protocol) connectors and self-improving developer tooling
-- 🏳️‍🌈 Building in the open, unapologetically — creativity and Pride are part of the work, not separate from it
-- 📫 Reach me on Twitter/X: [@keithstworld](https://twitter.com/keithstworld)
+- Currently building **AudioForge** — an AI-assisted audio production platform
+- Also maintaining several autonomous multi-agent & AI tooling projects
+- Exploring MCP (Model Context Protocol) connectors and self-improving developer tooling
+- Building in the open, unapologetically — creativity and Pride are part of the work, not separate from it
+- Reach me on Twitter/X: [@keithstworld](https://twitter.com/keithstworld)
 
 ---
 
